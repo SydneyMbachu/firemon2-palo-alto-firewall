@@ -1,0 +1,6 @@
+region = "us-east-1"
+availability_zone = "us-east-1a"
+firewall_ami_id = "REPLACE_WITH_MARKETPLACE_AMI"
+firewall_instance_type = "REPLACE_WITH_SUPPORTED_TYPE"
+admin_cidr = "REPLACE_WITH_YOUR_PUBLIC_IP/32"
+ssh_public_key = "REPLACE_WITH_YOUR_SSH_PUBLIC_KEY"
